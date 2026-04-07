@@ -2,6 +2,17 @@
 
 ## Release (2026-04-07)
 
+publish-testing-ejv 1.0.5 (patch)
+
+#### :house: Internal
+* `publish-testing-ejv`
+  * [#8](https://github.com/yanglinz/ember-json-viewer-publish-test/pull/8) More release ([@yanglinz](https://github.com/yanglinz))
+
+#### Committers: 1
+- Yanglin Zhao ([@yanglinz](https://github.com/yanglinz))
+
+## Release (2026-04-07)
+
 publish-testing-ejv 1.0.4 (patch)
 
 #### :rocket: Enhancement

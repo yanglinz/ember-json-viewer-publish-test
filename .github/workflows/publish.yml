@@ -28,15 +28,16 @@ jobs:
 
     steps:
       - uses: actions/checkout@v6
-      - uses: volta-cli/action@v5
-      - uses: pnpm/action-setup@v5
+      - uses: actions/setup-node@v6
+        with:
+          # should match the version in package.json volta field
+          node-version: "22"
+          registry-url: "https://registry.npmjs.org"
       - run: pnpm install --frozen-lockfile
       - run: |
           npm --version
-          volta install node@latest
-          volta install npm@11
-          npm --version
-          which npm
+          npm install
+      - uses: pnpm/action-setup@v5
       - name: npm publish
         run: NPM_CONFIG_PROVENANCE=true pnpm release-plan publish
         env:

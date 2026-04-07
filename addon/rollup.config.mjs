@@ -1,6 +1,8 @@
 import babel from "@rollup/plugin-babel";
 import { Addon } from "@embroider/addon-dev/rollup";
 
+// this is an empty change
+
 const addon = new Addon({
   srcDir: "src",
   destDir: "dist",

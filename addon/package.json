@@ -1,6 +1,6 @@
 {
   "name": "publish-testing-ejv",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Testing publish workflow for ember-json-viewer",
   "keywords": [
     "ember-addon"

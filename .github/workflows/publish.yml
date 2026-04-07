@@ -36,7 +36,8 @@ jobs:
       - run: pnpm install --frozen-lockfile
       - run: |
           npm --version
-          npm install
+          npx npm@latest install -g npm@latest
+          npm --version
       - uses: pnpm/action-setup@v5
       - name: npm publish
         run: NPM_CONFIG_PROVENANCE=true pnpm release-plan publish

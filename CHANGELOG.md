@@ -2,6 +2,26 @@
 
 ## Release (2026-04-07)
 
+publish-testing-ejv 1.0.4 (patch)
+
+#### :rocket: Enhancement
+* [#4](https://github.com/yanglinz/ember-json-viewer-publish-test/pull/4) Add some comments about workflow ([@yanglinz](https://github.com/yanglinz))
+
+#### :memo: Documentation
+* [#4](https://github.com/yanglinz/ember-json-viewer-publish-test/pull/4) Add some comments about workflow ([@yanglinz](https://github.com/yanglinz))
+
+#### :house: Internal
+* `publish-testing-ejv`
+  * [#5](https://github.com/yanglinz/ember-json-viewer-publish-test/pull/5) This is an empty change ([@yanglinz](https://github.com/yanglinz))
+* Other
+  * [#2](https://github.com/yanglinz/ember-json-viewer-publish-test/pull/2) Prepare Release ([@github-actions[bot]](https://github.com/apps/github-actions))
+
+#### Committers: 2
+- Yanglin Zhao ([@yanglinz](https://github.com/yanglinz))
+- [@github-actions[bot]](https://github.com/apps/github-actions)
+
+## Release (2026-04-07)
+
 
 
 #### :rocket: Enhancement

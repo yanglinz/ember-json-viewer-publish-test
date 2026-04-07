@@ -1,8 +1,17 @@
 {
   "solution": {
     "publish-testing-ejv": {
-      "oldVersion": "1.0.3"
+      "impact": "patch",
+      "oldVersion": "1.0.3",
+      "newVersion": "1.0.4",
+      "constraints": [
+        {
+          "impact": "patch",
+          "reason": "Appears in changelog section :house: Internal"
+        }
+      ],
+      "pkgJSONPath": "./addon/package.json"
     }
   },
-  "description": "## Release (2026-04-07)\n\n\n\n#### :rocket: Enhancement\n* [#4](https://github.com/yanglinz/ember-json-viewer-publish-test/pull/4) Add some comments about workflow ([@yanglinz](https://github.com/yanglinz))\n\n#### :memo: Documentation\n* [#4](https://github.com/yanglinz/ember-json-viewer-publish-test/pull/4) Add some comments about workflow ([@yanglinz](https://github.com/yanglinz))\n\n#### Committers: 1\n- Yanglin Zhao ([@yanglinz](https://github.com/yanglinz))\n"
+  "description": "## Release (2026-04-07)\n\npublish-testing-ejv 1.0.4 (patch)\n\n#### :rocket: Enhancement\n* [#4](https://github.com/yanglinz/ember-json-viewer-publish-test/pull/4) Add some comments about workflow ([@yanglinz](https://github.com/yanglinz))\n\n#### :memo: Documentation\n* [#4](https://github.com/yanglinz/ember-json-viewer-publish-test/pull/4) Add some comments about workflow ([@yanglinz](https://github.com/yanglinz))\n\n#### :house: Internal\n* `publish-testing-ejv`\n  * [#5](https://github.com/yanglinz/ember-json-viewer-publish-test/pull/5) This is an empty change ([@yanglinz](https://github.com/yanglinz))\n* Other\n  * [#2](https://github.com/yanglinz/ember-json-viewer-publish-test/pull/2) Prepare Release ([@github-actions[bot]](https://github.com/apps/github-actions))\n\n#### Committers: 2\n- Yanglin Zhao ([@yanglinz](https://github.com/yanglinz))\n- [@github-actions[bot]](https://github.com/apps/github-actions)\n"
 }

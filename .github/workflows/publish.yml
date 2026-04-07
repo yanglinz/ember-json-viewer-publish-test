@@ -33,6 +33,7 @@ jobs:
       - run: pnpm install --frozen-lockfile
       - run: |
           npm --version
+          volta install node@latest
           volta install npm@latest
           npm --version
       - name: npm publish

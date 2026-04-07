@@ -8,7 +8,7 @@
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },
-  "repository": "https://github.com/Addepar/ember-json-viewer",
+  "repository": "https://github.com/yanglinz/ember-json-viewer-publish-test",
   "license": "MIT",
   "author": "",
   "directories": {

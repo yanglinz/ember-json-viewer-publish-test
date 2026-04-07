@@ -2,7 +2,7 @@
   "private": true,
   "repository": {
     "type": "git",
-    "url": "https://github.com/Addepar/ember-json-viewer.git"
+    "url": "https://github.com/yanglinz/ember-json-viewer-publish-test.git"
   },
   "scripts": {
     "preinstall": "npx only-allow pnpm"

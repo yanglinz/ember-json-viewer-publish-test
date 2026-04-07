@@ -34,7 +34,7 @@ jobs:
       - run: |
           npm --version
           volta install node@latest
-          volta install npm@latest
+          volta install npm@11
           npm --version
           which npm
       - name: npm publish

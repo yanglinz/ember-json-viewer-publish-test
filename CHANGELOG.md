@@ -2,6 +2,19 @@
 
 ## Release (2026-04-07)
 
+
+
+#### :rocket: Enhancement
+* [#4](https://github.com/yanglinz/ember-json-viewer-publish-test/pull/4) Add some comments about workflow ([@yanglinz](https://github.com/yanglinz))
+
+#### :memo: Documentation
+* [#4](https://github.com/yanglinz/ember-json-viewer-publish-test/pull/4) Add some comments about workflow ([@yanglinz](https://github.com/yanglinz))
+
+#### Committers: 1
+- Yanglin Zhao ([@yanglinz](https://github.com/yanglinz))
+
+## Release (2026-04-07)
+
 publish-testing-ejv 1.0.3 (patch)
 
 #### :memo: Documentation

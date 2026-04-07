@@ -1,8 +1,17 @@
 {
   "solution": {
     "publish-testing-ejv": {
-      "oldVersion": "1.0.2"
+      "impact": "patch",
+      "oldVersion": "1.0.2",
+      "newVersion": "1.0.3",
+      "constraints": [
+        {
+          "impact": "patch",
+          "reason": "Appears in changelog section :house: Internal"
+        }
+      ],
+      "pkgJSONPath": "./addon/package.json"
     }
   },
-  "description": "## Release (2026-04-07)\n\n\n\n#### :memo: Documentation\n* [#1](https://github.com/yanglinz/ember-json-viewer-publish-test/pull/1) Readme changes ([@yanglinz](https://github.com/yanglinz))\n\n#### Committers: 1\n- Yanglin Zhao ([@yanglinz](https://github.com/yanglinz))\n"
+  "description": "## Release (2026-04-07)\n\npublish-testing-ejv 1.0.3 (patch)\n\n#### :memo: Documentation\n* [#1](https://github.com/yanglinz/ember-json-viewer-publish-test/pull/1) Readme changes ([@yanglinz](https://github.com/yanglinz))\n\n#### :house: Internal\n* `publish-testing-ejv`, `docs-app`, `test-app`\n  * [#3](https://github.com/yanglinz/ember-json-viewer-publish-test/pull/3) Change repo url ([@yanglinz](https://github.com/yanglinz))\n\n#### Committers: 1\n- Yanglin Zhao ([@yanglinz](https://github.com/yanglinz))\n"
 }

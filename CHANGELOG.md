@@ -2,6 +2,20 @@
 
 ## Release (2026-04-07)
 
+publish-testing-ejv 1.0.3 (patch)
+
+#### :memo: Documentation
+* [#1](https://github.com/yanglinz/ember-json-viewer-publish-test/pull/1) Readme changes ([@yanglinz](https://github.com/yanglinz))
+
+#### :house: Internal
+* `publish-testing-ejv`, `docs-app`, `test-app`
+  * [#3](https://github.com/yanglinz/ember-json-viewer-publish-test/pull/3) Change repo url ([@yanglinz](https://github.com/yanglinz))
+
+#### Committers: 1
+- Yanglin Zhao ([@yanglinz](https://github.com/yanglinz))
+
+## Release (2026-04-07)
+
 
 
 #### :memo: Documentation

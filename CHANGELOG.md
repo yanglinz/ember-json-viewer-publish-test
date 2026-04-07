@@ -1,5 +1,35 @@
 # Changelog
 
+## Release (2026-04-07)
+
+
+
+#### :memo: Documentation
+* [#1](https://github.com/yanglinz/ember-json-viewer-publish-test/pull/1) Readme changes ([@yanglinz](https://github.com/yanglinz))
+
+#### Committers: 1
+- Yanglin Zhao ([@yanglinz](https://github.com/yanglinz))
+
+## Release (2026-04-07)
+
+
+
+#### :rocket: Enhancement
+* [#1](https://github.com/Addepar/ember-json-viewer/pull/1) downgrade to pre-octane ([@bantic](https://github.com/bantic))
+
+#### Committers: 1
+- Cory Forsyth ([@bantic](https://github.com/bantic))
+
+## Release (2026-04-07)
+
+
+
+#### :rocket: Enhancement
+* [#1](https://github.com/Addepar/ember-json-viewer/pull/1) downgrade to pre-octane ([@bantic](https://github.com/bantic))
+
+#### Committers: 1
+- Cory Forsyth ([@bantic](https://github.com/bantic))
+
 
 
 

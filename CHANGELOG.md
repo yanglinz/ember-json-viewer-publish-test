@@ -1,5 +1,19 @@
 # Changelog
 
+## Release (2026-04-08)
+
+publish-testing-ejv 1.0.6 (patch)
+
+#### :house: Internal
+* Other
+  * [#10](https://github.com/yanglinz/ember-json-viewer-publish-test/pull/10) Prepare Release ([@github-actions[bot]](https://github.com/apps/github-actions))
+* `publish-testing-ejv`
+  * [#9](https://github.com/yanglinz/ember-json-viewer-publish-test/pull/9) empty comment ([@yanglinz](https://github.com/yanglinz))
+
+#### Committers: 2
+- Yanglin Zhao ([@yanglinz](https://github.com/yanglinz))
+- [@github-actions[bot]](https://github.com/apps/github-actions)
+
 
 
 

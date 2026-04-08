@@ -53,11 +53,7 @@ jobs:
       # Both release-plan and pnpm uses `npm publish` under the hood to publish a release.
       # To be compatible with npm trusted publishing, npm v11 or later must be used.
       - run: |
-          cd /
-          npm --version
-          which npm
-          volta install node@22
-          volta install npm@11
+          npx npm@latest install -g npm@latest
           npm --version
       - run: pnpm install --frozen-lockfile
       - name: npm publish

@@ -1,17 +1,8 @@
 {
   "solution": {
     "publish-testing-ejv": {
-      "impact": "patch",
-      "oldVersion": "1.0.4",
-      "newVersion": "1.0.5",
-      "constraints": [
-        {
-          "impact": "patch",
-          "reason": "Appears in changelog section :house: Internal"
-        }
-      ],
-      "pkgJSONPath": "./addon/package.json"
+      "oldVersion": "1.0.5"
     }
   },
-  "description": "## Release (2026-04-07)\n\npublish-testing-ejv 1.0.5 (patch)\n\n#### :house: Internal\n* `publish-testing-ejv`\n  * [#8](https://github.com/yanglinz/ember-json-viewer-publish-test/pull/8) More release ([@yanglinz](https://github.com/yanglinz))\n\n#### Committers: 1\n- Yanglin Zhao ([@yanglinz](https://github.com/yanglinz))\n"
+  "description": "\n\n\n\n"
 }

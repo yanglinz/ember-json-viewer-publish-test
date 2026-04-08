@@ -49,6 +49,7 @@ jobs:
       - uses: volta-cli/action@v5
         with:
           registry-url: "https://registry.npmjs.org"
+          node-version: 22
           npm-version: 11
       - uses: pnpm/action-setup@v5
       # Both release-plan and pnpm uses `npm publish` under the hood to publish a release.

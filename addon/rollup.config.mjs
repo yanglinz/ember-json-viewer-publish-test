@@ -1,7 +1,7 @@
 import babel from "@rollup/plugin-babel";
 import { Addon } from "@embroider/addon-dev/rollup";
 
-// empty-comment 1
+// empty-comment 2
 
 const addon = new Addon({
   srcDir: "src",

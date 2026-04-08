@@ -1,17 +1,8 @@
 {
   "solution": {
     "publish-testing-ejv": {
-      "impact": "patch",
-      "oldVersion": "1.0.5",
-      "newVersion": "1.0.6",
-      "constraints": [
-        {
-          "impact": "patch",
-          "reason": "Appears in changelog section :house: Internal"
-        }
-      ],
-      "pkgJSONPath": "./addon/package.json"
+      "oldVersion": "1.0.6"
     }
   },
-  "description": "## Release (2026-04-08)\n\npublish-testing-ejv 1.0.6 (patch)\n\n#### :house: Internal\n* Other\n  * [#10](https://github.com/yanglinz/ember-json-viewer-publish-test/pull/10) Prepare Release ([@github-actions[bot]](https://github.com/apps/github-actions))\n* `publish-testing-ejv`\n  * [#9](https://github.com/yanglinz/ember-json-viewer-publish-test/pull/9) empty comment ([@yanglinz](https://github.com/yanglinz))\n\n#### Committers: 2\n- Yanglin Zhao ([@yanglinz](https://github.com/yanglinz))\n- [@github-actions[bot]](https://github.com/apps/github-actions)\n"
+  "description": "\n\n\n\n"
 }
